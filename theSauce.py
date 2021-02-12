@@ -154,7 +154,7 @@ if __name__ == "__main__":
     driver          = webdriver.Chrome(executable_path=executable_path, chrome_options=webdriver.ChromeOptions())
 
 
-    ########################Spencer, here is where you input what you want##########################
+    ########################USER, here is where you input what you want##########################
     course           = "Bethpage Red Course"          # you can put any course name here
     amount_of_people = 4                                # you can put any amnt here
     username         = "username@gmail.com"        # you can put your username (email) here
